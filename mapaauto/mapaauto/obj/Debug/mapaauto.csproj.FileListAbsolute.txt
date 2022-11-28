@@ -1,0 +1,10 @@
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.csprojAssemblyReference.cache
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.Properties.Resources.resources
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.csproj.GenerateResource.cache
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.csproj.CoreCompileInputs.cache
+G:\PRG\mapaauto\mapaauto\bin\Debug\mapaauto.exe.config
+G:\PRG\mapaauto\mapaauto\bin\Debug\mapaauto.exe
+G:\PRG\mapaauto\mapaauto\bin\Debug\mapaauto.pdb
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.exe
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.pdb
+G:\PRG\mapaauto\mapaauto\obj\Debug\mapaauto.Osoba.resources
